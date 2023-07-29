@@ -130,8 +130,8 @@ projects:
         link: https://github.com/sweehua/niosduino
         tagline: Arduino IDE tools & library to compile & download code to Nios II
 
-      - title: Self-hosting server running [Proxmox VE](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)
-        link: #https://lists.openwall.net/linux-kernel/2015/08/11/513
+      - title: Self-hosting home server on Proxmox VE
+        link: https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment
         tagline: Just a virtual platform runnig Nextcloud for my own cloud storage to store my photos & documents, HomeAsistant for my home automation, AguardHome to manage DHCP and DNS, NginX Proxy Manager and CloudFlare Tunnel for various network access.  
 
       - title: <u><b>Linux Kernel Patch</b></u>
